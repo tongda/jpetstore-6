@@ -1,3 +1,5 @@
+[ ![Codeship Status for tongda/jpetstore-6](https://codeship.com/projects/e60feb40-4b9d-0132-e6e1-1e93d1c401d3/status)](https://codeship.com/projects/46781)
+
 # Readme
 JPetStore 6 is a full web application built on top of MyBatis 3, Spring 3 and Stripes. It is available for downloading in the downloads section of MyBatis project site. In this section we will walk through this sample to understand how is it built and learn how to run it.
 
